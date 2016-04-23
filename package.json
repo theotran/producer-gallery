@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/theotran/producer-gallery/issues"
   },
-  "homepage": "https://github.com/theotran/producer-gallery#readme"
+  "homepage": "https://github.com/theotran/producer-gallery#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "pg": "^4.5.3",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^3.21.0"
+  }
 }
