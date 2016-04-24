@@ -1,3 +1,6 @@
+//ProducerGalleries is what our table is called if you look in PgAdmin, 
+//and its in the database, producergalleries which we made in psql then deifned in the config.json
+
 'use strict';
 
 module.exports = {
